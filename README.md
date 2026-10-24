@@ -4,7 +4,7 @@ I build production-ready full-stack & frontend web applications with **React**, 
 
 🔭 **Currently building:** Scalable MERN stack web applications & modern UI components  
 🌱 **Learning:** Advanced system design, caching patterns & microservices architecture  
-📫 **Reach me:** [shahzaibakhtar819@gmail.com](mailto:shahzaibakhtar819@gmail.com) · [LinkedIn](https://linkedin.com/in/shah-zaib-a938472b5) · [Portfolio](https://shahzaib-akhtar-portfolio-main.vercel.app/)
+📫 **Reach me:** [shahzaibakhtar819@gmail.com](mailto:shahzaibakhtar819@gmail.com) · [LinkedIn](https://linkedin.com/in/shah-zaib-a938472b5) · 
 
 ---
 
